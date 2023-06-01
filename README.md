@@ -1,0 +1,1 @@
+# Normal_Abnormal_patient_based_on_Orthopedic_parameters
